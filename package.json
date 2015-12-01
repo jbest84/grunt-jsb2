@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jbest84/grunt-jsb2/issues"
   },
-  "homepage": "https://github.com/jbest84/grunt-jsb2#readme"
+  "homepage": "https://github.com/jbest84/grunt-jsb2#readme",
+  "dependencies": {
+    "uglify-js": "^2.6.1"
+  }
 }
