@@ -1,0 +1,21 @@
+{
+  "name": "grunt-jsb2",
+  "version": "1.0.0",
+  "description": "0.1.0",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbest84/grunt-jsb2.git"
+  },
+  "keywords": [
+    "jsb2"
+  ],
+  "author": "jbest84",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbest84/grunt-jsb2/issues"
+  },
+  "homepage": "https://github.com/jbest84/grunt-jsb2#readme"
+}
